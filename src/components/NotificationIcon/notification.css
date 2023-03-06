@@ -1,0 +1,16 @@
+.notificationIcon {
+  position: relative;
+  display: flex;
+}
+
+.notificationNum {
+  position: absolute;
+  right: 1px;
+  bottom: 10px;
+  background-color: rgb(29, 161, 242);
+  font-size: 12px;
+  color: white;
+  display: inline;
+  padding: 3px 5px;
+  border-radius: 20px;
+}
